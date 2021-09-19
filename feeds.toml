@@ -1,4 +1,4 @@
-[billboard_news]
+[news]
 title = "Billboard Korea ─ NEWS"
 url = "http://billboard.co.kr/main/news/list"
 entrySelector = "ul.clr.news li"
@@ -8,7 +8,7 @@ imageSelector = "div.img-con img"
 contentSelector = "div[class='txt'] span"
 waitUntil = "networkidle"
 
-[billboard_video]
+[video]
 title = "Billboard Korea ─ VIDEO"
 url = "http://billboard.co.kr/main/videos/list"
 entrySelector = "ul.clr.news li"
