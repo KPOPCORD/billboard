@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Sep 2021 02:30:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Sep 2021 03:09:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,6 +80,22 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210831181013_13.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[Interview Film |  The Island of Jannabi (Billboard Korea ─ VIDEO)]]></title>
+            <link>http://billboard.co.kr/main/videos/view/705</link>
+            <guid>http://billboard.co.kr/main/videos/view/705</guid>
+            <pubDate>Thu, 30 Sep 2021 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[Interview Film |  The Island of Jannabi]]></content:encoded>
+            <enclosure url="https://img.youtube.com/vi/CmUt8LzZqA0/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates? (Billboard Korea ─ VIDEO)]]></title>
+            <link>http://billboard.co.kr/main/videos/view/704</link>
+            <guid>http://billboard.co.kr/main/videos/view/704</guid>
+            <pubDate>Thu, 30 Sep 2021 03:09:36 GMT</pubDate>
+            <content:encoded><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates?]]></content:encoded>
+            <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[Open Up The Album] 넬의 "Moments in between" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
             <link>http://billboard.co.kr/main/videos/view/697</link>
             <guid>http://billboard.co.kr/main/videos/view/697</guid>
@@ -134,22 +150,6 @@
             <pubDate>Sun, 19 Sep 2021 20:04:36 GMT</pubDate>
             <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.22]]></content:encoded>
             <enclosure url="https://img.youtube.com/vi/MK5pyq5di1s/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100 주요 순위 21.05.15 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/636</link>
-            <guid>http://billboard.co.kr/main/videos/view/636</guid>
-            <pubDate>Sun, 19 Sep 2021 20:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.15]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/1E6WOGUikJI/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100 주요 순위 21.05.08 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/634</link>
-            <guid>http://billboard.co.kr/main/videos/view/634</guid>
-            <pubDate>Sun, 19 Sep 2021 20:04:36 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.08]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/vEiZxjcKBy8/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
