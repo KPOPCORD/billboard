@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 12 Oct 2021 09:09:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Oct 2021 10:09:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/710</link>
+            <guid>http://billboard.co.kr/main/news/view/710</guid>
+            <pubDate>Tue, 12 Oct 2021 10:09:50 GMT</pubDate>
+            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012185411_14.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2) (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/709</link>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 07 Oct 2021 10:10:09 GMT</pubDate>
             <content:encoded><![CDATA[[DIGGING SPOT] #2 힐즈앤유로파]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210908111555_18.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 정상 등극 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/695</link>
-            <guid>http://billboard.co.kr/main/news/view/695</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 정상 등극]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210907183520_5.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[Interview Film |  The Island of Jannabi (Billboard Korea ─ VIDEO)]]></title>
