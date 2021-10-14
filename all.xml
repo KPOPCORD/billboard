@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Oct 2021 05:09:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Oct 2021 06:10:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,12 +32,12 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2020년 최고의 수입을 올린 챔피언은? (Billboard Korea ─ NEWS)]]></title>
+            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은? (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/712</link>
             <guid>http://billboard.co.kr/main/news/view/712</guid>
             <pubDate>Wed, 13 Oct 2021 08:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 최고의 수입을 올린 챔피언은?]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013164119_23.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
