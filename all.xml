@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 13:16:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 14:08:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘Easy On Me’로 새 챕터의 시작을 연 아델 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/713</link>
+            <guid>http://billboard.co.kr/main/news/view/713</guid>
+            <pubDate>Fri, 15 Oct 2021 14:08:42 GMT</pubDate>
+            <content:encoded><![CDATA[‘Easy On Me’로 새 챕터의 시작을 연 아델]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015221107_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은? (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/712</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013175752_9.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/715</link>
-            <guid>http://billboard.co.kr/main/news/view/715</guid>
-            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015155410_7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
