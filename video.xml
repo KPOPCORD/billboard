@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ VIDEO</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크]]></title>
+            <link>http://billboard.co.kr/main/videos/view/716</link>
+            <guid>http://billboard.co.kr/main/videos/view/716</guid>
+            <pubDate>Fri, 15 Oct 2021 08:10:57 GMT</pubDate>
+            <content:encoded><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크]]></content:encoded>
+            <enclosure url="https://img.youtube.com/vi/hQmf0Esv4g0/mqdefault.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Interview Film |  The Island of Jannabi]]></title>
             <link>http://billboard.co.kr/main/videos/view/705</link>
@@ -70,14 +78,6 @@
             <pubDate>Sun, 19 Sep 2021 20:09:09 GMT</pubDate>
             <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.29]]></content:encoded>
             <enclosure url="https://img.youtube.com/vi/dGnc93-JyIw/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100 주요 순위 21.05.22]]></title>
-            <link>http://billboard.co.kr/main/videos/view/644</link>
-            <guid>http://billboard.co.kr/main/videos/view/644</guid>
-            <pubDate>Sun, 19 Sep 2021 20:09:09 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.22]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/MK5pyq5di1s/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

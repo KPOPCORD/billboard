@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Oct 2021 07:09:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Oct 2021 08:10:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></title>
+            <link>http://billboard.co.kr/main/news/view/712</link>
+            <guid>http://billboard.co.kr/main/news/view/712</guid>
+            <pubDate>Wed, 13 Oct 2021 08:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/710</link>
@@ -24,6 +32,14 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[팬데믹 시대의 K-바이닐 시장]]></title>
+            <link>http://billboard.co.kr/main/news/view/714</link>
+            <guid>http://billboard.co.kr/main/news/view/714</guid>
+            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹 시대의 K-바이닐 시장]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015154138_2.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[빌보드 케이팝 100, 이무진 ‘신호등’ 5주 1위 & 멜로망스의 첫 톱 10]]></title>
             <link>http://billboard.co.kr/main/news/view/708</link>
             <guid>http://billboard.co.kr/main/news/view/708</guid>
@@ -32,12 +48,12 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211005175130_1.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></title>
-            <link>http://billboard.co.kr/main/news/view/712</link>
-            <guid>http://billboard.co.kr/main/news/view/712</guid>
-            <pubDate>Wed, 13 Oct 2021 08:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
+            <title><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈]]></title>
+            <link>http://billboard.co.kr/main/news/view/701</link>
+            <guid>http://billboard.co.kr/main/news/view/701</guid>
+            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013154028_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위]]></title>
@@ -48,36 +64,20 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[솔로 데뷔한 리사의 빌보드 차트 기록]]></title>
-            <link>http://billboard.co.kr/main/news/view/703</link>
-            <guid>http://billboard.co.kr/main/news/view/703</guid>
-            <pubDate>Thu, 30 Sep 2021 02:30:51 GMT</pubDate>
-            <content:encoded><![CDATA[솔로 데뷔한 리사의 빌보드 차트 기록]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210929175502_0.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들]]></title>
+            <link>http://billboard.co.kr/main/news/view/707</link>
+            <guid>http://billboard.co.kr/main/news/view/707</guid>
+            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[세상을 움직인 음악Ⅱ. 한국 사회를 이야기한 노래들]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013175752_9.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/700</link>
-            <guid>http://billboard.co.kr/main/news/view/700</guid>
-            <pubDate>Tue, 21 Sep 2021 09:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 3주 연속 1위]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210921180200_4.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[역대 핫 100 톱 10을 지배한 10장의 앨범]]></title>
-            <link>http://billboard.co.kr/main/news/view/699</link>
-            <guid>http://billboard.co.kr/main/news/view/699</guid>
-            <pubDate>Sun, 19 Sep 2021 20:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[역대 핫 100 톱 10을 지배한 10장의 앨범]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210917141120_28.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
-            <link>http://billboard.co.kr/main/news/view/698</link>
-            <guid>http://billboard.co.kr/main/news/view/698</guid>
-            <pubDate>Sun, 19 Sep 2021 20:09:01 GMT</pubDate>
-            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 2주 연속 1위]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210914181101_13.png" length="0" type="image/png"/>
+            <title><![CDATA[세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들]]></title>
+            <link>http://billboard.co.kr/main/news/view/715</link>
+            <guid>http://billboard.co.kr/main/news/view/715</guid>
+            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
+            <content:encoded><![CDATA[세상을  움직인 음악Ⅰ. 미국 인종 차별 반대를 외친 노래들]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015155410_7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
