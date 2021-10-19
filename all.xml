@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Oct 2021 10:11:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Oct 2021 11:07:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 & 에스파 ‘Savage’ 톱 5 진입 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/718</link>
+            <guid>http://billboard.co.kr/main/news/view/718</guid>
+            <pubDate>Tue, 19 Oct 2021 11:07:46 GMT</pubDate>
+            <content:encoded><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211019193202_1.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[위기를 기회로 삼는 케이팝 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/717</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
             <content:encoded><![CDATA[예거마이스터, 문화 공간 #SAVE THE NIGHT 오픈]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211013154028_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/702</link>
-            <guid>http://billboard.co.kr/main/news/view/702</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:09 GMT</pubDate>
-            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 4주 연속 1위]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20210928181224_11.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
