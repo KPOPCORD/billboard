@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 09:09:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 10:10:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/722</link>
+            <guid>http://billboard.co.kr/main/news/view/722</guid>
+            <pubDate>Tue, 09 Nov 2021 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109190750_9.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6)]]></title>
             <link>http://billboard.co.kr/main/news/view/721</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 12 Oct 2021 10:09:50 GMT</pubDate>
             <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012185411_14.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2)]]></title>
-            <link>http://billboard.co.kr/main/news/view/709</link>
-            <guid>http://billboard.co.kr/main/news/view/709</guid>
-            <pubDate>Tue, 12 Oct 2021 05:08:11 GMT</pubDate>
-            <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2)]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
