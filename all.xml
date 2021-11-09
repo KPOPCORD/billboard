@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 09 Nov 2021 03:10:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Nov 2021 04:11:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6) (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/721</link>
+            <guid>http://billboard.co.kr/main/news/view/721</guid>
+            <pubDate>Tue, 09 Nov 2021 04:11:45 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6)]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109124005_15.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 정상 등극 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/720</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 12 Oct 2021 05:08:11 GMT</pubDate>
             <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(9/11~10/2)]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012102909_7.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 시대의 K-바이닐 시장 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/714</link>
-            <guid>http://billboard.co.kr/main/news/view/714</guid>
-            <pubDate>Fri, 15 Oct 2021 08:10:50 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹 시대의 K-바이닐 시장]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015154138_2.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
