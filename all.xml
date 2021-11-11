@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 05:08:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 06:11:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미스틱스토리의 첫 걸그룹 빌리 데뷔 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/724</link>
+            <guid>http://billboard.co.kr/main/news/view/724</guid>
+            <pubDate>Thu, 11 Nov 2021 06:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[미스틱스토리의 첫 걸그룹 빌리 데뷔]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111150156_4.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/722</link>
@@ -14,6 +22,14 @@
             <pubDate>Tue, 09 Nov 2021 10:10:11 GMT</pubDate>
             <content:encoded><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109190750_9.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[트래비스 스캇, 페스티벌 희생자들의 장례 비용 부담 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/723</link>
+            <guid>http://billboard.co.kr/main/news/view/723</guid>
+            <pubDate>Thu, 11 Nov 2021 06:11:32 GMT</pubDate>
+            <content:encoded><![CDATA[트래비스 스캇, 페스티벌 희생자들의 장례 비용 부담]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109191048_19.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6) (Billboard Korea ─ NEWS)]]></title>
@@ -62,22 +78,6 @@
             <pubDate>Fri, 15 Oct 2021 14:08:42 GMT</pubDate>
             <content:encoded><![CDATA[‘Easy On Me’로 새 챕터의 시작을 연 아델]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211015221107_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2020년 최고의 수입을 올린 뮤지션은? (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/712</link>
-            <guid>http://billboard.co.kr/main/news/view/712</guid>
-            <pubDate>Wed, 13 Oct 2021 08:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 최고의 수입을 올린 뮤지션은?]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211014144202_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/710</link>
-            <guid>http://billboard.co.kr/main/news/view/710</guid>
-            <pubDate>Tue, 12 Oct 2021 10:09:50 GMT</pubDate>
-            <content:encoded><![CDATA[이무진 ‘신호등’, 빌보드 케이팝 100 차트 6주 연속 1위]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211012185411_14.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
