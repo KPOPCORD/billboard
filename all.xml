@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 11 Nov 2021 06:11:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Nov 2021 07:10:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://billboard.co.kr/main/news/view/724</guid>
             <pubDate>Thu, 11 Nov 2021 06:11:32 GMT</pubDate>
             <content:encoded><![CDATA[미스틱스토리의 첫 걸그룹 빌리 데뷔]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111150156_4.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111154132_9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 2주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
