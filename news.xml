@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 12 Nov 2021 10:09:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Nov 2021 11:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이색 콘셉트로 돌아온 트와이스]]></title>
+            <link>http://billboard.co.kr/main/news/view/726</link>
+            <guid>http://billboard.co.kr/main/news/view/726</guid>
+            <pubDate>Fri, 12 Nov 2021 11:08:06 GMT</pubDate>
+            <content:encoded><![CDATA[이색 콘셉트로 돌아온 트와이스]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211112182822_9.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트]]></title>
             <link>http://billboard.co.kr/main/news/view/725</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 19 Oct 2021 11:07:46 GMT</pubDate>
             <content:encoded><![CDATA[케이팝 100, 이무진 ‘신호등’ 7주 1위 &amp; 에스파 ‘Savage’ 톱 5 진입]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211019193202_1.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[위기를 기회로 삼는 케이팝]]></title>
-            <link>http://billboard.co.kr/main/news/view/717</link>
-            <guid>http://billboard.co.kr/main/news/view/717</guid>
-            <pubDate>Mon, 18 Oct 2021 08:11:20 GMT</pubDate>
-            <content:encoded><![CDATA[위기를 기회로 삼는 케이팝]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211018154853_0.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
