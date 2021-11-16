@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 16 Nov 2021 09:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Nov 2021 10:10:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 & 쇼미더머니 미션곡 톱 10 데뷔 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/729</link>
+            <guid>http://billboard.co.kr/main/news/view/729</guid>
+            <pubDate>Tue, 16 Nov 2021 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 3주 1위 &amp; 쇼미더머니 미션곡 톱 10 데뷔]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116185001_16.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[MBC, 아델의 [30] 발매 기념 콘서트 방영 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/728</link>
+            <guid>http://billboard.co.kr/main/news/view/728</guid>
+            <pubDate>Tue, 16 Nov 2021 10:10:11 GMT</pubDate>
+            <content:encoded><![CDATA[MBC, 아델의 [30] 발매 기념 콘서트 방영]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116182549_8.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해리 스타일스의 네일 폴리시 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/727</link>
@@ -62,22 +78,6 @@
             <pubDate>Tue, 09 Nov 2021 04:11:45 GMT</pubDate>
             <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(10/9~11/6)]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211109124005_15.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 정상 등극 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/720</link>
-            <guid>http://billboard.co.kr/main/news/view/720</guid>
-            <pubDate>Tue, 02 Nov 2021 10:09:39 GMT</pubDate>
-            <content:encoded><![CDATA[아이유 ‘strawberry moon’, 빌보드 케이팝 100 차트 정상 등극]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211102183452_6.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[케이팝 100, 이무진 ‘신호등’ 8주 1위 & 아이유 ‘strawberry moon’ 톱 5 데뷔 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/719</link>
-            <guid>http://billboard.co.kr/main/news/view/719</guid>
-            <pubDate>Tue, 26 Oct 2021 10:10:07 GMT</pubDate>
-            <content:encoded><![CDATA[케이팝 100, 이무진 ‘신호등’ 8주 1위 &amp; 아이유 ‘strawberry moon’ 톱 5 데뷔]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211026190650_7.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
