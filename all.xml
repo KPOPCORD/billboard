@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 23 Nov 2021 03:09:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Nov 2021 04:11:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -13,7 +13,7 @@
             <guid>http://billboard.co.kr/main/news/view/732</guid>
             <pubDate>Tue, 23 Nov 2021 03:09:46 GMT</pubDate>
             <content:encoded><![CDATA[트와이스의 빌보드 기록 총정리]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123120251_11.jpg" length="0" type="image/jpg"/>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123121356_12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[터치만으로 한국여행부터 K-POP 아티스트가 총출동한 콘서트까지 (Billboard Korea ─ NEWS)]]></title>
