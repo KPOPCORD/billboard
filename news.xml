@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 24 Nov 2021 13:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Nov 2021 14:09:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></title>
+            <link>http://billboard.co.kr/main/news/view/735</link>
+            <guid>http://billboard.co.kr/main/news/view/735</guid>
+            <pubDate>Wed, 24 Nov 2021 14:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124191520_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 4주 1위 & 쇼미더머니 경연곡의 톱 10 장악]]></title>
             <link>http://billboard.co.kr/main/news/view/733</link>
@@ -70,14 +78,6 @@
             <pubDate>Fri, 12 Nov 2021 11:08:06 GMT</pubDate>
             <content:encoded><![CDATA[이색 콘셉트로 돌아온 트와이스]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211112182822_9.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트]]></title>
-            <link>http://billboard.co.kr/main/news/view/725</link>
-            <guid>http://billboard.co.kr/main/news/view/725</guid>
-            <pubDate>Thu, 11 Nov 2021 10:10:05 GMT</pubDate>
-            <content:encoded><![CDATA[HITC 페스티벌을 뜨겁게 달군 한국 아티스트]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211111181714_5.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
