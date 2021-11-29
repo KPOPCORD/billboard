@@ -4,9 +4,25 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:10:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:12:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[버질 아블로, 희귀암 투병 끝에 사망]]></title>
+            <link>http://billboard.co.kr/main/news/view/736</link>
+            <guid>http://billboard.co.kr/main/news/view/736</guid>
+            <pubDate>Mon, 29 Nov 2021 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[버질 아블로, 희귀암 투병 끝에 사망]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129164146_6.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제64회 그래미 어워즈 후보 명단 공개]]></title>
+            <link>http://billboard.co.kr/main/news/view/734</link>
+            <guid>http://billboard.co.kr/main/news/view/734</guid>
+            <pubDate>Mon, 29 Nov 2021 08:11:59 GMT</pubDate>
+            <content:encoded><![CDATA[제64회 그래미 어워즈 후보 명단 공개]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124231734_25.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></title>
             <link>http://billboard.co.kr/main/news/view/735</link>
@@ -62,22 +78,6 @@
             <pubDate>Tue, 16 Nov 2021 10:10:11 GMT</pubDate>
             <content:encoded><![CDATA[MBC, 아델의 [30] 발매 기념 콘서트 방영]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116182549_8.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해리 스타일스의 네일 폴리시]]></title>
-            <link>http://billboard.co.kr/main/news/view/727</link>
-            <guid>http://billboard.co.kr/main/news/view/727</guid>
-            <pubDate>Tue, 16 Nov 2021 09:09:49 GMT</pubDate>
-            <content:encoded><![CDATA[해리 스타일스의 네일 폴리시]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211116180515_3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이색 콘셉트로 돌아온 트와이스]]></title>
-            <link>http://billboard.co.kr/main/news/view/726</link>
-            <guid>http://billboard.co.kr/main/news/view/726</guid>
-            <pubDate>Fri, 12 Nov 2021 11:08:06 GMT</pubDate>
-            <content:encoded><![CDATA[이색 콘셉트로 돌아온 트와이스]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211112182822_9.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
