@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 09:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 10:10:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/742</link>
+            <guid>http://billboard.co.kr/main/news/view/742</guid>
+            <pubDate>Fri, 03 Dec 2021 10:10:16 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211203163029_0.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NCT, 정규 3집 타이틀곡 선공개 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/741</link>
@@ -70,14 +78,6 @@
             <pubDate>Tue, 23 Nov 2021 10:10:14 GMT</pubDate>
             <content:encoded><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 4주 1위 &amp; 쇼미더머니 경연곡의 톱 10 장악]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123183758_2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[트와이스의 빌보드 기록 총정리 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/732</link>
-            <guid>http://billboard.co.kr/main/news/view/732</guid>
-            <pubDate>Tue, 23 Nov 2021 03:09:46 GMT</pubDate>
-            <content:encoded><![CDATA[트와이스의 빌보드 기록 총정리]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123121356_12.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
