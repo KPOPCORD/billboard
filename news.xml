@@ -4,9 +4,25 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 08:11:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 09:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[How to enjoy your “K-Vibe Festa” this Winter by Jeff Benjamin]]></title>
+            <link>http://billboard.co.kr/main/news/view/744</link>
+            <guid>http://billboard.co.kr/main/news/view/744</guid>
+            <pubDate>Mon, 06 Dec 2021 09:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[How to enjoy your “K-Vibe Festa” this Winter by Jeff Benjamin]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180230_11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to enjoy your “K-Vibe Festa” this Winter by Riddhi Chakraborty]]></title>
+            <link>http://billboard.co.kr/main/news/view/743</link>
+            <guid>http://billboard.co.kr/main/news/view/743</guid>
+            <pubDate>Mon, 06 Dec 2021 09:10:20 GMT</pubDate>
+            <content:encoded><![CDATA[How to enjoy your “K-Vibe Festa” this Winter by Riddhi Chakraborty]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180152_6.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국의 진짜 멋을 담다, Feel The Rhythm of Korea : Season2]]></title>
             <link>http://billboard.co.kr/main/news/view/742</link>
@@ -62,22 +78,6 @@
             <pubDate>Mon, 29 Nov 2021 08:11:59 GMT</pubDate>
             <content:encoded><![CDATA[제64회 그래미 어워즈 후보 명단 공개]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124231734_25.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></title>
-            <link>http://billboard.co.kr/main/news/view/735</link>
-            <guid>http://billboard.co.kr/main/news/view/735</guid>
-            <pubDate>Wed, 24 Nov 2021 14:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[제64회 그래미 어워즈, 어떻게 달라졌나?]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211124191520_6.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 4주 1위 & 쇼미더머니 경연곡의 톱 10 장악]]></title>
-            <link>http://billboard.co.kr/main/news/view/733</link>
-            <guid>http://billboard.co.kr/main/news/view/733</guid>
-            <pubDate>Tue, 23 Nov 2021 10:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[케이팝 100, 아이유 ‘strawberry moon’ 4주 1위 &amp; 쇼미더머니 경연곡의 톱 10 장악]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211123183758_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
