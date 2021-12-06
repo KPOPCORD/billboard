@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 11:08:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Dec 2021 12:14:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,11 +16,11 @@
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180230_11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter by Riddhi Chakraborty (Billboard Korea ─ NEWS)]]></title>
+            <title><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/743</link>
             <guid>http://billboard.co.kr/main/news/view/743</guid>
             <pubDate>Mon, 06 Dec 2021 09:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter by Riddhi Chakraborty]]></content:encoded>
+            <content:encoded><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180152_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
