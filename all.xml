@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 09:09:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 10:11:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이달의 빌보드 HOT 100 총정리(11/13~12/4) (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/746</link>
+            <guid>http://billboard.co.kr/main/news/view/746</guid>
+            <pubDate>Wed, 08 Dec 2021 10:10:55 GMT</pubDate>
+            <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(11/13~12/4)]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211208181327_3.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/745</link>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 29 Nov 2021 10:10:24 GMT</pubDate>
             <content:encoded><![CDATA[컴백을 앞둔 송민호가 준비한 선물]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129190609_4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[버질 아블로, 희귀암 투병 끝에 사망 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/736</link>
-            <guid>http://billboard.co.kr/main/news/view/736</guid>
-            <pubDate>Mon, 29 Nov 2021 08:11:59 GMT</pubDate>
-            <content:encoded><![CDATA[버질 아블로, 희귀암 투병 끝에 사망]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211129164146_6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
