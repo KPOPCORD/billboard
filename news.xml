@@ -4,9 +4,17 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 07:09:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 08:11:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위]]></title>
+            <link>http://billboard.co.kr/main/news/view/749</link>
+            <guid>http://billboard.co.kr/main/news/view/749</guid>
+            <pubDate>Tue, 21 Dec 2021 08:11:40 GMT</pubDate>
+            <content:encoded><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위]]></title>
             <link>http://billboard.co.kr/main/news/view/747</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 01 Dec 2021 10:10:35 GMT</pubDate>
             <content:encoded><![CDATA[한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211201183908_26.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극]]></title>
-            <link>http://billboard.co.kr/main/news/view/739</link>
-            <guid>http://billboard.co.kr/main/news/view/739</guid>
-            <pubDate>Tue, 30 Nov 2021 10:08:52 GMT</pubDate>
-            <content:encoded><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 정상 등극]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211130185646_2.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
