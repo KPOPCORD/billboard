@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Dec 2021 09:10:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Dec 2021 10:10:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Tue, 21 Dec 2021 08:11:40 GMT</pubDate>
             <content:encoded><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 4주 연속 1위]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211221165819_5.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’ (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/748</link>
+            <guid>http://billboard.co.kr/main/news/view/748</guid>
+            <pubDate>Tue, 21 Dec 2021 10:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[[B-RADAR] 뮤직비디오부터 앨범 아트웍까지, K-팝을 점령한 아티스트가 총출동하는 ‘빈칸 아트페어’]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211219210901_13.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 3주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[NCT, 정규 3집 타이틀곡 선공개]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211202180031_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/740</link>
-            <guid>http://billboard.co.kr/main/news/view/740</guid>
-            <pubDate>Wed, 01 Dec 2021 10:10:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국 여행과 K-POP 아티스트가 총출동한 콘서트를 동시에, K-VIBE CONCERT]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211201183908_26.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
