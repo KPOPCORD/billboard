@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Dec 2021 14:09:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 15:11:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,78 +78,6 @@
             <pubDate>Thu, 02 Dec 2021 09:09:54 GMT</pubDate>
             <content:encoded><![CDATA[NCT, 정규 3집 타이틀곡 선공개]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211202180031_0.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/716</link>
-            <guid>http://billboard.co.kr/main/videos/view/716</guid>
-            <pubDate>Fri, 15 Oct 2021 08:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/hQmf0Esv4g0/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Interview Film |  The Island of Jannabi (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/705</link>
-            <guid>http://billboard.co.kr/main/videos/view/705</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[Interview Film |  The Island of Jannabi]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/CmUt8LzZqA0/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates? (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/704</link>
-            <guid>http://billboard.co.kr/main/videos/view/704</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[오마이걸 지목 토크 |  How Well Do You Know Your Bandmates?]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/IVTviu1PtvU/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] 넬의 "Moments in between" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/697</link>
-            <guid>http://billboard.co.kr/main/videos/view/697</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[[Open Up The Album] 넬의 "Moments in between" 앨범 토크]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/8OWCgbfZjTg/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] 더보이즈의 "THRILL-ING" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/682</link>
-            <guid>http://billboard.co.kr/main/videos/view/682</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[[Open Up The Album] 더보이즈의 "THRILL-ING" 앨범 토크]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/DO7sURG15iQ/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] DPR LIVE의 "IITE COOL" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/673</link>
-            <guid>http://billboard.co.kr/main/videos/view/673</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[[Open Up The Album] DPR LIVE의 "IITE COOL" 앨범 토크]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/RplKQKrI_8g/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[Open Up The Album] 브레이브걸스와의 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/665</link>
-            <guid>http://billboard.co.kr/main/videos/view/665</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[[Open Up The Album] 브레이브걸스와의 앨범 토크]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/p8kFrwCjPrE/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100 주요 순위 21.06.05 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/652</link>
-            <guid>http://billboard.co.kr/main/videos/view/652</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.06.05]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/Y78-QUo43LU/mqdefault.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[빌보드 케이팝 100 주요 순위 21.05.29 (Billboard Korea ─ VIDEO)]]></title>
-            <link>http://billboard.co.kr/main/videos/view/645</link>
-            <guid>http://billboard.co.kr/main/videos/view/645</guid>
-            <pubDate>Thu, 07 Oct 2021 10:10:17 GMT</pubDate>
-            <content:encoded><![CDATA[빌보드 케이팝 100 주요 순위 21.05.29]]></content:encoded>
-            <enclosure url="https://img.youtube.com/vi/dGnc93-JyIw/mqdefault.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
