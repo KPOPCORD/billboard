@@ -4,7 +4,7 @@
         <title>Billboard Korea ─ NEWS</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 09:10:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 10:10:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Wed, 29 Dec 2021 09:09:58 GMT</pubDate>
             <content:encoded><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211229174739_11.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[외로운 심연에서 피어난 데이먼스 이어의 음악]]></title>
+            <link>http://billboard.co.kr/main/news/view/753</link>
+            <guid>http://billboard.co.kr/main/news/view/753</guid>
+            <pubDate>Wed, 29 Dec 2021 10:10:21 GMT</pubDate>
+            <content:encoded><![CDATA[외로운 심연에서 피어난 데이먼스 이어의 음악]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228171414_8.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[B-Picks] 놓치지 말아야 할 5장의 국내 앨범]]></title>
@@ -70,14 +78,6 @@
             <pubDate>Mon, 06 Dec 2021 09:10:20 GMT</pubDate>
             <content:encoded><![CDATA[[English Column by Jeff Benjamin] How to enjoy your “K-Vibe Festa” this Winter]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180230_11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter]]></title>
-            <link>http://billboard.co.kr/main/news/view/743</link>
-            <guid>http://billboard.co.kr/main/news/view/743</guid>
-            <pubDate>Mon, 06 Dec 2021 09:10:20 GMT</pubDate>
-            <content:encoded><![CDATA[[English Column by Riddhi Chakraborty] How to enjoy your “K-Vibe Festa” this Winter]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211206180152_6.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
