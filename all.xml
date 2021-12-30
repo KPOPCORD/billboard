@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Dec 2021 08:12:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Dec 2021 09:09:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021 빌보드 케이팝 100 연말 결산 (Billboard Korea ─ NEWS)]]></title>
+            <link>http://billboard.co.kr/main/news/view/752</link>
+            <guid>http://billboard.co.kr/main/news/view/752</guid>
+            <pubDate>Thu, 30 Dec 2021 09:09:46 GMT</pubDate>
+            <content:encoded><![CDATA[2021 빌보드 케이팝 100 연말 결산]]></content:encoded>
+            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211228172847_14.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 5주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
             <link>http://billboard.co.kr/main/news/view/755</link>
@@ -70,14 +78,6 @@
             <pubDate>Wed, 08 Dec 2021 10:10:55 GMT</pubDate>
             <content:encoded><![CDATA[이달의 빌보드 HOT 100 총정리(11/13~12/4)]]></content:encoded>
             <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211208181327_3.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위 (Billboard Korea ─ NEWS)]]></title>
-            <link>http://billboard.co.kr/main/news/view/745</link>
-            <guid>http://billboard.co.kr/main/news/view/745</guid>
-            <pubDate>Tue, 07 Dec 2021 10:11:32 GMT</pubDate>
-            <content:encoded><![CDATA[소코도모 ‘회전목마’, 빌보드 케이팝 100 차트 2주 연속 1위]]></content:encoded>
-            <enclosure url="http://billboard.co.kr/upload_data/board/simg/20211207163534_18.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[Open Up The Album] 에스파의 "Savage" 앨범 토크 (Billboard Korea ─ VIDEO)]]></title>
